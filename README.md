@@ -9,3 +9,7 @@ I really don't do a lot of public stuff, but you can find some simple [Roblox](h
 ```
 📫 You can reach me at Not_Lowest#0317, low@astrotech.info or [my Discord server](https://discord.gg/eky6HtjxVy)
 
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=gmoddev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gmoddev&layout=compact&hide_border=true&langs_count=8&theme=dark">
+</p>
