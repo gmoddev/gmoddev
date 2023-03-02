@@ -1,6 +1,6 @@
 👋 Hi, I’m Not_Lowest, aka [@gmoddev](https://github.com/gmoddev)
 ```
-- 👀 I primarly do lua, and specifically luau; though im trying to branch off into js, java, html, and css!
+- 👀 I primarly do lua, and specifically luau I also do a little bit of TS; though im trying to branch off into js, java, html, and css!
 - 🌱 I’m currently learning website related stuff
 ```
 
